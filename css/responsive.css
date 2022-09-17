@@ -1,0 +1,17 @@
+
+@media (min-width: 768px){
+    #top_header .top_header_right ul li a, #top_header .top_header_left p {
+        display: inline-block;
+        padding: 16px 10px;
+    }
+}
+
+@media (min-width: 576px) {
+    #banner .banner_slider .banner_slider_arrow.fa-angle-right {
+        right: 42%;
+    }
+    #banner .banner_slider .banner_slider_arrow.fa-angle-left {
+        left: 42%;
+    }
+}
+ 
